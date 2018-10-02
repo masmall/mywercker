@@ -1,3 +1,4 @@
+box: nodesource/trusty
 # You can also use services such as databases. Read more on our dev center:
 # https://devcenter.wercker.com/administration/services/
 # services:
